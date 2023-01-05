@@ -9,9 +9,13 @@ unsigned int factorial(unsigned int n)
 {
 	int x;
 
-	if (n <= 1)
+	if (n == 0)
 	{
 		return (1);
+	}
+	else if (n < 0)
+	{
+		return (-1);
 	}
 	else
 	{

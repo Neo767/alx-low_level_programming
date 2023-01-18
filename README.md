@@ -1,1 +1,3 @@
-let's write some C code
+ALX SE project repo.
+
+from start to end
